@@ -13,7 +13,8 @@ const players = {
         'points': '38,387',
         'gamesPlayed': '1,560',
         'status': 'Retired',
-        'bg':'yellow',
+        'bg':'gold',
+        'color':'black',
         'picURL': "https://static.onecms.io/wp-content/uploads/sites/20/2020/12/08/Kareem-Abdul-Jabbar-1.jpg"
     },
     2:{
@@ -23,7 +24,8 @@ const players = {
         'points': '37,062',
         'gamesPlayed': '1,366',
         'status': 'Active',
-        'bg':'yellow',
+        'bg':'gold',
+        'color':'black',
         'picURL':'https://library.sportingnews.com/2021-12/lebron-james-los-angeles-lakers_kej02uf93prj18vqxkh8dfnqk.png'
     },
     3:{
@@ -33,7 +35,8 @@ const players = {
         'points': '36,928',
         'gamesPlayed': '1,476',
         'status': 'Retired',
-        'bg':'blue',
+        'bg':'purple',
+        'color':'black',
         'picURL': 'https://www.cleveland.com/resizer/xYiU4SRx5DKDot7JEapsfqKrHds=/1280x0/smart/image.cleveland.com/home/cleve-media/width600/img/cavs_impact/photo/malone-c134fda8caa0af44.jpg'
     },
     4:{
@@ -43,7 +46,8 @@ const players = {
         'points': '33,643',
         'gamesPlayed': '1,346',
         'status': 'Retired',
-        'bg':'yellow',
+        'bg':'gold',
+        'color':'black',
         'picURL': 'https://dynaimage.cdn.cnn.com/cnn/digital-images/org/98224ac3-aedc-44d4-9ad2-a6b8b0c06e2c.jpg'
     },
     5:{
@@ -54,6 +58,7 @@ const players = {
         'gamesPlayed': '1,072',
         'status': 'Retired',
         'bg':'red',
+        'color':'black',
         'picURL': 'https://phantom-marca.unidadeditorial.es/ce0fa6ed4b08f63546dd1f8cfa910a18/resize/1320/f/jpg/assets/multimedia/imagenes/2022/02/17/16451255007747.jpg'
     },
     6:{
@@ -63,7 +68,8 @@ const players = {
         'points': '31,560',
         'gamesPlayed': '1,522',
         'status': 'Retired',
-        'bg':'dark blue',
+        'bg':'darkblue',
+        'color':'white',
         'picURL': 'https://static.dw.com/image/48269678_101.jpg'
     },
     7:{
@@ -74,6 +80,7 @@ const players = {
         'gamesPlayed': '1,045',
         'status': 'Retired',
         'bg':'blue',
+        'color':'black',
         'picURL': 'https://www.onthisday.com/images/people/wilt-chamberlain-medium.jpg'
     },
     8: {
@@ -83,7 +90,8 @@ const players = {
         'points': '28,596',
         'gamesPlayed': '1,207',
         'status': 'Retired',
-        'bg':'yellow',
+        'bg':'gold',
+        'color':'black',
         'picURL': 'https://phantom-marca.unidadeditorial.es/3b10e183272f5dc6bca9559da7865360/resize/1320/f/jpg/assets/multimedia/imagenes/2021/08/31/16303964956430.jpg'
     },
     9: {
@@ -93,7 +101,8 @@ const players = {
         'points': '28,289',
         'gamesPlayed': '1,260',
         'status': 'Active',
-        'bg':'yellow',
+        'bg':'gold',
+        'color':'black',
         'picURL': 'https://img.bleacherreport.net/img/images/photos/003/918/315/hi-res-4795a7a4d1fa0d599001268776d5e1df_crop_north.jpg?1634894430&w=3072&h=2048'
     },
     10:{
@@ -104,6 +113,7 @@ const players = {
         'gamesPlayed': '1,329',
         'status': 'Retired',
         'bg':'red',
+        'color':'black',
         'picURL': 'https://media.bleacherreport.com/w_800,h_533,c_fill/br-img-article/002/206/258/hi-res-65b9936a6af6cbb167a18b7259132679_crop_exact.jpg'
     },
     'notRank':{
@@ -114,6 +124,7 @@ const players = {
         'gamesPlayed': '0',
         'status': 'Retired',
         'bg':'white',
+        'color':'black',
         'picURL': 'https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nba.png'
     }
 }
